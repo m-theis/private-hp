@@ -38,9 +38,9 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'Dante',
-    subtitle: 'Minimal Astro.js theme',
-    description: 'Astro.js and Tailwind CSS theme for blog and portfolio by justgoodui.com',
+    title: 'Moritz Theis',
+    subtitle: 'Software-Developer & Co-Founder at Snapp X',
+    description: 'This is my personal website where I share my thoughts, projects, and public speaking engagements.',
     image: {
         src: '/dante-preview.jpg',
         alt: 'Dante - Astro.js and Tailwind CSS theme'
@@ -51,56 +51,40 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Projects',
-            href: '/projects'
+            text: 'Public Speaking',
+            href: '/publicSpeaking'
         },
         {
-            text: 'Blog',
-            href: '/blog'
+            text: 'Experience',
+            href: '/experience'
         },
-        {
-            text: 'Tags',
-            href: '/tags'
-        }
     ],
     footerNavLinks: [
-        {
-            text: 'About',
-            href: '/about'
-        },
         {
             text: 'Contact',
             href: '/contact'
         },
-        {
-            text: 'Terms',
-            href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
-        }
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'Github',
+            href: 'https://github.com/m-theis'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/moritz-theis-43366b109/'
         },
         {
             text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            href: 'https://x.com/MoritzTheis'
         }
     ],
     hero: {
-        title: 'Hi There & Welcome to My Corner of the Web!',
-        text: "I'm **Ethan Donovan**, a web developer at Amazing Studio, dedicated to the realms of collaboration and artificial intelligence. My approach involves embracing intuition, conducting just enough research, and leveraging aesthetics as a catalyst for exceptional products. I have a profound appreciation for top-notch software, visual design, and the principles of product-led growth. Feel free to explore some of my coding endeavors on <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        title: 'Hello there',
+        text: "I'm <b>Moritz Theis</b>, a software developer and co-founder at Snapp X, where we build exceptional apps using Flutter technology. With over a decade of experience, I specialize in leading diverse teams and crafting solutions for start-ups, major banks, and international clients. My work spans from developing mobile banking solutions in Africa to creating innovative apps for renowned brands like LAMY. <br><br>I’m passionate about the intersection of technology, product-led growth, and intuitive design. As a Google Developer Expert in Flutter, I actively contribute to the developer community, co-organize the <a href='https://www.meetup.com/de-DE/flutter-munich/'>Flutter Munich Meetup</a>, and speak at international conferences. <br><br>Feel free to explore some of my projects on <a href='https://github.com/m-theis'>GitHub</a> or connect with me on <a href='https://www.linkedin.com/in/moritz-theis-43366b109/'>LinkedIn</a> and <a href='https://x.com/MoritzTheis'>Twitter/X</a>.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/fluttercon.webp',
+            alt: 'A person presenting a conference talk'
         },
         actions: [
             {

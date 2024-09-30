@@ -5,10 +5,13 @@ seo:
   description: Get in touch through email or social media! Let me know how I can help.
 ---
 
-Thank you for reaching out! Whether you have a question, a suggestion, or just want to share your thoughts, I'm all ears. Feel free to get in touch through any of the methods below:
+I'd love to hear from you! Whether you’re interested in discussing a project, collaboration, or speaking opportunities, feel free to reach out via email or connect with me on social media.
 
-_Email:_
-Feel free to drop me an email at [example@example.com](mailto:example@example.com), and I'll do my best to respond as soon as possible.
+If you have any questions about **Flutter Munich**—including sponsorships, speaking engagements, or partnerships—don't hesitate to contact me. You can also join our community on Meetup to stay updated on our events.
 
-_Social Media:_
-Connect with me on social media as well. Find me on [Twitter](https://twitter.com) or [LinkedIn](https://www.linkedin.com/).
+- **Email**: [moritz@snappx.io](mailto:moritz@snappx.io)
+- **LinkedIn**: [linkedin.com/in/moritz-theis](https://www.linkedin.com/in/moritz-theis-43366b109/)
+- **Twitter/X**: [@MoritzTheis](https://x.com/MoritzTheis)
+- **Flutter Munich Meetup**: [meetup.com/de-DE/flutter-munich](https://www.meetup.com/de-DE/flutter-munich/)
+
+Let’s create something amazing together!
