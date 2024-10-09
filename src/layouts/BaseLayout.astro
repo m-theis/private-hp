@@ -4,6 +4,7 @@ import BaseHead, { type Props as HeadProps } from '../components/BaseHead.astro'
 import Footer from '../components/Footer.astro';
 import Header from '../components/Header.astro';
 import Nav from '../components/Nav.astro';
+import { GoogleFontsOptimizer } from 'astro-google-fonts-optimizer';
 
 export type Props = HeadProps & { showHeader?: boolean };
 
@@ -20,7 +21,11 @@ const { showHeader = false, ...head } = Astro.props;
             }
         </script>
         <ViewTransitions />
+        <GoogleFontsOptimizer
+            url="https://fonts.googleapis.com/css2?family=Inter:wght@400..700&family=Newsreader:ital,opsz,wght@0,6..72,400..700;1,6..72,400..700&display=swap"
+        />
     </head>
+
     <body class="bg-main text-main">
         <div class="flex flex-col min-h-screen px-4 md:px-8">
             <Nav />
