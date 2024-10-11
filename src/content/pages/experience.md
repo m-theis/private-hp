@@ -20,19 +20,19 @@ With over 10 years of experience in software development, I’ve had the privile
   Aug 2022 – Present  
   Co-founded a software agency that builds beautiful and efficient apps using Flutter technology.
 
-- **C. Josef Lamy GmbH (Development Lead, Freelance)** - Heidelberg, Germany  
+- **C. Josef Lamy GmbH (Development Lead, Snapp X)** - Heidelberg, Germany  
   Feb 2023 – Aug 2024  
   Led a team to successfully develop and launch the “LAMY safari note+” app, available on the Apple App Store.
 
-- **Verein Deutscher Sporttaucher e.V. (Senior Flutter Developer, Freelance)** - Offenbach, Germany  
+- **Verein Deutscher Sporttaucher e.V. (Senior Flutter Developer, Snapp X)** - Offenbach, Germany  
   Aug 2022 – Present  
   Leading development of four apps, including the VDST app with over 10,000 users, all built using Flutter.
 
-- **NCBA (Development Lead, Freelance)** - Nairobi, Kenya  
+- **NCBA (Development Lead, Snapp X)** - Nairobi, Kenya  
   Jun 2022 – May 2023  
   Led a team of 10 to develop the “Pamoja” banking app for iOS and Android in Kenya and Tanzania.
 
-- **Apriwell (Senior Flutter Developer, Freelance)** - Berlin, Germany  
+- **Apriwell (Senior Flutter Developer, Snapp X)** - Berlin, Germany  
   Feb 2022 – Jun 2022  
   Took over development and successfully launched the app in Google Play and the Apple App Store.
 
